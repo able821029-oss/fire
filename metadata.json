@@ -1,0 +1,6 @@
+{
+  "name": "EV-FIREGUARD Safety Operations",
+  "description": "전기차 충전소 화재 감지 및 실시간 통합 관제 시스템 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
